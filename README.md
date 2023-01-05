@@ -1,1 +1,1 @@
-![main](./main.png)
+<img alt="main" src="./main.png" width="30%"/>
